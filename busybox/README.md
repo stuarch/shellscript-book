@@ -25,6 +25,7 @@ awk -F"." '{print $0 "--" $1 "--" $2}' example
 
 ##cat
 聯結一個或多個檔案，使用正規表示法輸出。
+
 EX：
 顯示README文件中的內容
 `cat README`
