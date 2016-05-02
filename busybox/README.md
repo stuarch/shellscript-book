@@ -29,9 +29,8 @@ EX：
 顯示README文件中的內容
 `cat README`
 
+將顯示的輸出指定到某個檔案
 ```sh
-#將顯示的輸出指定到某個檔案
-#
 cat text1.txt > text2.txt
 #以覆完全蓋的方式將text1.txt的內容覆蓋於text2.txt
 cat text1.txt >> text3.txt
