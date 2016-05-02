@@ -28,6 +28,7 @@ awk -F"." '{print $0 "--" $1 "--" $2}' example
 
 EX：
 顯示README文件中的內容
+
 `cat README`
 
 將顯示的輸出指定到某個檔案
