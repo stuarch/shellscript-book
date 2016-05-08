@@ -15,8 +15,8 @@ echo $shvar
 執行結果
 This is a test
 
+編輯紀錄
 ```shell
-不知道是什麼
 ll $lastdir
 ```
 
