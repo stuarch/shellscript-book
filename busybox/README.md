@@ -69,6 +69,6 @@ cat text1.txt >> text3.txt
 ```
 $ chmod 664 myfile  
 $ ls -l myfile  
-$ drwdrwd-- user user 檔案大小 日期
+drwdrwd-- user user 檔案大小 日期
 ```
 
